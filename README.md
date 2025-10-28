@@ -1,5 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Jayesh 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayeshamudan&style=flat-square&color=blue" />
+</p>
+
 <p align="center">
   <b>Data Analyst</b> • Python | SQL | Excel | Power BI | Machine Learning
 </p>
