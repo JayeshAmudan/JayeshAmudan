@@ -13,6 +13,7 @@
   <a href="mailto:jayeshamudan1998@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jayesh-amudan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/jayeshamudhan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/JayeshAmudan/JayeshAmudan/blob/main/Jayesh_Amudan_Resume.pdf"> <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />  </a>
 </p>
 
 ---
