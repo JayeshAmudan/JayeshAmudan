@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 - I turn messy data into clear insights and visuals that drive decisions.  
-- Comfortable across the stack: **data cleaning → analysis → dashboards → simple ML**.  
+- Comfortable across the stack: **data cleaning → analysis → dashboards → ML**.  
 - Currently: building portfolio projects and leveling up in ML & analytics engineering.
 
 ---
