@@ -29,7 +29,7 @@
 
 ### 🐍 Python
 
-**End-to-End Churn Analysis (EDA):** Customer churn analysis using Python  
+**Project 1 –End-to-End Churn Analysis (EDA):** Customer churn analysis using Python  
    🔗 Repo: [End-to-End Churn Analysis](https://github.com/JayeshAmudan/End-to-End-Churn-analysis)
 
 
