@@ -28,49 +28,10 @@
 ## 📂 Data Analyst Projects
 
 ### 🐍 Python
-- **Project 1 – Exploratory Data Analysis (EDA):** Outlier detection, feature engineering, visual insights.  
-  🔗 Repo: `[Add Link]`
-- **Project 2 – Automation Scripts:** ETL pipeline with `pandas` and `schedule`.  
-  🔗 Repo: `[Add Link]`
-- **Project 3 – API Analytics:** Pulling public APIs, normalizing JSON, pushing to a database.  
-  🔗 Repo: `[Add Link]`
 
-### 📊 Excel
-- **Sales Performance Dashboard:** Dynamic charts, slicers, KPI cards.  
-  🔗 File/Repo: `[Add Link]`
-- **Operations Tracker:** Data validation, conditional formatting, macros for automation.  
-  🔗 File/Repo: `[Add Link]`
+**End-to-End Churn Analysis (EDA):** Customer churn analysis using Python  
+   🔗 Repo: [End-to-End Churn Analysis](https://github.com/JayeshAmudan/End-to-End-Churn-analysis)
 
-### 🗃️ SQL
-- **SQL Case Study – Retail Analytics:** Window functions for cohorts, RFM segmentation, churn flags.  
-  🔗 Repo: `[Add Link]`
-- **Data Modeling:** Star schema design + queries for BI reporting.  
-  🔗 Repo: `[Add Link]`
-
-### 📈 Power BI
-- **Executive KPI Dashboard:** DAX measures, drill-through, tooltips, bookmarks.  
-  🔗 PBIX/Repo: `[Add Link]`
-- **Logistics & Inventory Insights:** Route efficiency, lead times, stock aging visuals.  
-  🔗 PBIX/Repo: `[Add Link]`
-
-### 🤖 Machine Learning
-- **Classification Model:** Pipeline with preprocessing, cross-validation, model explainability (SHAP).  
-  🔗 Repo: `[Add Link]`
-- **Time Series Forecasting:** Baseline vs. Prophet / XGBoost, MAPE comparison.  
-  🔗 Repo: `[Add Link]`
-
-> Tip: Replace `[Add Link]` with your repository or file URLs.
-
----
-
-## 🏅 Certifications
-- `Google Data Analytics (Coursera)` – `[Add Link]`  
-- `Microsoft Power BI Data Analyst Associate` – `[Add Link]`  
-- `SQL (Advanced)` – `[Add Link]`  
-- `Python for Data Science` – `[Add Link]`  
-- `Machine Learning Foundations` – `[Add Link]`
-
----
 
 ## 🤝 Connect with Me
 
