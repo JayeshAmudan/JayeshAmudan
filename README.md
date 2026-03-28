@@ -32,6 +32,10 @@
 **Project 1 –End-to-End Churn Analysis (EDA):** Customer churn analysis using Python  
    🔗 Repo: [End-to-End Churn Analysis](https://github.com/JayeshAmudan/End-to-End-Churn-analysis)
 
+**Project 2 -Time-series analysis:** Exploratory financial time series analysis using Python, yFinance, and Plotly
+
+🔗 Repo: [Time-series analysis](https://github.com/JayeshAmudan/AAPL-Time-Series-Analysis-or-Stock-Time-Series-Analysis-Python-)
+
 
 ## 🤝 Connect with Me
 
