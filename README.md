@@ -36,6 +36,9 @@
 
 🔗 Repo: [Time-series analysis](https://github.com/JayeshAmudan/AAPL-Time-Series-Analysis-or-Stock-Time-Series-Analysis-Python-)
 
+**Project 3 -Supply-chain-optimization:** Python-based supply chain analysis and financial risk assessment for a mid-size retail brand.
+
+🔗 Repo: [Supply-chain-optimization](https://github.com/JayeshAmudan/supply-chain-optimization-case-study)
 
 ## 🤝 Connect with Me
 
